@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-24T14:47:09.962Z</updated>
+  <updated>2019-02-01T09:14:38.817Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>高浩的CV</title>
+    <link href="http://yoursite.com/2019/02/01/%E9%AB%98%E6%B5%A9%E7%9A%84CV/"/>
+    <id>http://yoursite.com/2019/02/01/高浩的CV/</id>
+    <published>2019-02-01T09:14:38.000Z</published>
+    <updated>2019-02-01T09:14:38.817Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>创业启示</title>
